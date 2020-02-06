@@ -1,3 +1,7 @@
 Bharat is a country in Asia.
-USA is a country in North America.
+USA is a country in NA.
+
 India beats USA hands down according to population.
+
+
+Some random changes
